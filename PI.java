@@ -1,19 +1,8 @@
-/*
-*******************************************************
-**Copyright(C)2015SchawnnDev<contact@schawnndev.fr>
-**
-**Thisfile(Pet)ispartofWorkspaceUHCGames.
-**
-**CreatedbySchawnnDevon05/06/1511:46.
-**
-**WorkspaceUHCGamescannotbecopiedand/ordistributedwithouttheexpress
-**permissionofSchawnnDev.
-*******************************************************
-*/
+package PI;
 
-public class PI{
+public class PI {
 
-public double PI = 3.141592653589793238462643383279502884197169399375105820974
+protected final double PI = 3.141592653589793238462643383279502884197169399375105820974
                    94459230781640628620899862803482534211706798214808651328230
                    66470938446095505822317253594081284811174502841027019385211
                    05559644622948954930381964428810975665933446128475648233786
